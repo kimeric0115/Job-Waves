@@ -1,0 +1,184 @@
+type,timestamp,content,upvotes,url
+post,2025-03-16 01:06:35,"How to define my job title
+Hi all, I have worked for many years as a backend developer with focus on the DevOps part and occasionally did some front end as well (little). I have a master's degree in computer engineering and several academic research activities.
+
+For the past few months I have been working in a new company where I am involved in:
+- defining and developing automated end-to-end tests;
+- develop and maintain internal tools useful for the developer experience;
+- configure and maintain dev and test environments (releases, deployments, etc.);
+- defining CI/CD pipelines to automate various processes;
+- at the time of production release, I work alongside the SREs (having already deployed to the test environment, I anticipate their work).
+
+Officially I have been framed as an “Automation Testing Engineer”, however, it seems reductive (I look like a mere tester in the eyes of future recruiters), I call myself ""Software Engineer in test/DevOps Engineer"" on my resume, I don't want to sound like I'm only doing testing, since I do a lot of different things
+
+What do you think is the most appropriate title for my role?
+
+Thank you to anyone who can give me advice.",1,https://www.reddit.com/r/cscareerquestions/comments/1jca1ug/how_to_define_my_job_title/
+comment,2025-03-16 03:49:18,"damn are you my coworker haha this is so similar to my line of work. I call myself a Software Engineer (platform/devops). Although I know people who call themsleves DevOps Engineer, Tools Developer, Software Developer etc.,",1,https://www.reddit.com/r/cscareerquestions/comments/1jca1ug/how_to_define_my_job_title/
+post,2025-03-15 16:36:44,"Software engineer who likes oncall/fire-fighting; advice?
+Does anyone know of an “emergency response” job in a technical field?
+
+I’m currently a Software Engineer who prefers oncall/fire fighting work versus planning long-term goals and delivering on them. I do my best when something random comes up, and I have to figure out what to do about it versus a project where I have to design then implement then rinse and repeat. (Design and planning and time estimating and planning long-term goals are not fun for me). 
+
+Is there a related job more ideal for me? Such as maybe SRE or pen testing? 
+
+Does anyone have any thoughts/suggestions?",8,https://www.reddit.com/r/cscareerquestions/comments/1jbz4ae/software_engineer_who_likes_oncallfirefighting/
+comment,2025-03-16 04:36:07,"Cybersecurity, maybe incident response. Data forensics and incident response (DFIR).
+
+When Change Healthcare got hacked last year, a DFIR team was in charge of finding out how they got in, how much they got, and how to remedy the situation. It’s not quite like software engineering, but it certainly is firefighting. Time is of the essence to find out if the hackers still have access and data is still being leaked.",1,https://www.reddit.com/r/cscareerquestions/comments/1jbz4ae/software_engineer_who_likes_oncallfirefighting/
+post,2025-03-15 13:46:45,"Torn between a pure CS degree, EE and CE
+Im currently in senior/high school taking maths, further maths, physics and computer science A levels (british education system). 
+
+I am very passionate about computer science and spend a good chunk of my spare time doing projects relating to it, but I dont know what degree to take. I think I would enjoy pure computer science but I worry a lot of it would be made much more competitive where less devs are needed due to AI, espescially software engineering. Its already extremely competitive as is. I enjoy physics but I find it much harder than maths or CS, so I think electrical engineering would be more difficult for me but I feel like future job prospects might be better (espescially with renewable energy sources, evs and demand for hardware with AI.
+
+I also really enjoy lower level aspects of computer science like how storage devices function, cpu architecture, assembly and lower level languages like c++ and embedded systems (but I do not enjoy robotics). This makes me think computer engineering might be a good fit, but courses for that are very scarce in the 2 countries i can study (uk and nl) and it also seems limiting for going more into cybersecurty/software engineering/machine learning/more abstract side of cs which I also really enjoy. 
+
+Most of my computer science so far has been programming and projects of my own which I really enjoy and I really enjoy logic problems and the feeling of solving something you were stuck on for ages, so i guess that leans more towards pure CS
+
+What degree would be better? ",1,https://www.reddit.com/r/cscareerquestions/comments/1jbvghl/torn_between_a_pure_cs_degree_ee_and_ce/
+post,2025-03-15 05:24:27,"can i still find a job 30 years later?
+Sup, am someone choosing a uni degree currently. I'm choosing between computer science/computer engineering/accountancy.
+
+I loved coding and have been doing so for 4 years, learning things like OOP and data structures. However I am concerned if I can still have a job like 30 years later when I am over 50. From what I know, there's always new things to learn in tech so skills upgrading is a must (which comes out from our own money?). And with the younger generation replacing the older generation in tech, I am not too sure about my prospects.
+
+Can anyone advise please? I intend to be a software engineer as of now (I am from and in Singapore)",2,https://www.reddit.com/r/cscareerquestions/comments/1jbo2wy/can_i_still_find_a_job_30_years_later/
+post,2025-03-15 04:46:44,"As a middle eastern should I move to the US or Germany?
+I (26M) am working as a software engineer and I want to leave my country and so far I have two options:
+1. Go do masters (costs 20k usd annually) in the US and actively look for an employer that’s willing to sponsor my green card.
+2. Go to Germany on a job sponsoring my blue card from the beginning.
+
+Of course the Germany option seems more stable since I will be having a well-paying stable job from day 1 but it comes with trade offs like the need to learn German as quick as possible, and deal with how Germans treat foreigners specially since I am a person of color, and making significantly less money than what I can make in the US.
+
+The trade offs at the US are that I don’t like the lifestyle at the US, expensive healthcare and education, and car-centeric cities, and higher criminality rates, and probably worse work-life balance. And also, very far from home so it might be challenging to maintain social relationships at my home country. But the most important problem is, it will be a must to find a job that sponsors my green card or H1B or else I will have paid an enormous amount of money and possibly got in a huge debt for nothing.
+
+I read so many bad reviews about German tech market on reddit and much praise for the US. Do you agree with that?
+
+Does anyone have an experience that can guide me where I should go? Does any of the trade offs I mentioned above have a higher weight that can lead to a decision?
+
+Thank you!
+",0,https://www.reddit.com/r/cscareerquestions/comments/1jbnh2j/as_a_middle_eastern_should_i_move_to_the_us_or/
+comment,2025-03-15 04:55:08,"I am a native born software engineer in the US. I cannot speak to Germany at all, but if you have the option of settling in New York or even Pittsburgh you can get along well enough without a car. Plus we'll accept you as American after ~10 years. You may have to watch our sports. I'm sorry baseball is so boring.",3,https://www.reddit.com/r/cscareerquestions/comments/1jbnh2j/as_a_middle_eastern_should_i_move_to_the_us_or/
+post,2025-03-14 22:56:20,"What Are the Best Alternative Career Paths for BA in CS Grads right now?
+Pretty much what the title says. Clearly Software Engineering isn't the lucrative career path that it used to be during COVID, and despite me being passionate about programming and am self teaching Python after graduating with a BA in CS April of last year, I'm looking to different career paths that could make me more money to support my family. Right now I'm only making 35k here in miami, FL which is not bad when you live with your girlfriend, but it's not ideal either. 
+
+I am already planning on making projects for my resume this year, however not sure what other career path is more lucrative for someone in my position as a 25 y/o just looking for an instant boost of income, hell with 50k a year, I feel like if I continue to live frugally, I could most definitely save up more money to buy a house. Would be preferable if it was remote, but I'd understand if that's not possible. My current job is a data entry specialist which has no relevance to my career path. ",0,https://www.reddit.com/r/cscareerquestions/comments/1jbgu3f/what_are_the_best_alternative_career_paths_for_ba/
+post,2025-03-14 22:43:54,"Pay Range
+Hi all, just curious to get your input on my current salary to see if I’m within the normal range for where I’m at in my career
+
+I started at Fortune 500 company 4 years ago and these are the roles and their pay I’ve been promoted through over the years at the same company:
+
+SecOps Intern (36k/yr) - .3 years
+
+Systems Analyst (48k/yr) - 1.2 years
+
+Systems Developer (68k/yr) -2 years
+
+Software Engineer (84k/yr) - .5 years
+
+I currently don’t hold any degree outside of a high school diploma and went the self taught route at the start of COVID. I’m also only 27 for additional context",2,https://www.reddit.com/r/cscareerquestions/comments/1jbgkf8/pay_range/
+post,2025-03-14 22:39:59,"Feeling stuck but also grateful with my career. However, I think I want to switch.
+# Background Info
+
+I'm currently 28, from Toronto and I work as a full stack engineer making 95k CAD. I went to the University of Toronto and got a degree in stats but I had been coding since highschool and I only got a stats degree because ""Big data"" was the big buzzword when I was going into uni which is mostly stats based so I did that to ""future proof"" myself. Right out of uni I couldn't get a job for like a year due to covid and with me not having a cs degree, I couldn't get much interviews but eventually on my second interview, I passed with colors and I joined a startup and I've been there almost 4 years.
+
+I understand the job market is tough right now and I'm extremely grateful for the fact that I'm making close to 6 figures in Toronto but I'm just not satisfied. I also know that my company is going to be sold in 1-2 years so I need to start thinking about what I want to do after.
+
+# Question
+
+I'm basically trying to see if there's any other fields that I can potentially switch into, which utilizes my skillset and pays just as much if not more than as an engineer. The obvious answer to make more money is to stay in the software engineering field but I just hate leetcode style questions with a passion but sadly that's needed to get into those companies that pay the big bucks. I'm terrible at remembering algorithms and while I believe myself to be a very good engineer, I just suck at leetcode. I can tackle easy/mediums pretty effortlessly but hard questions are pretty difficult for me.
+
+Now, on to what I am good at. 
+
+* I'm good at thinking about issues big picture, so more geared towards system design I guess? I find system design really interesting so I've watched a lot of videos on how twitter, fb, doordash, etc, were made so I'm pretty good at coming up with cost effective solutions that balance scalability and ease of use. I've built quite a few full stack apps that I host on my own Hetzner VPS and I've set everything up from scratch and have had no issues
+* I'm also not a terrible coder. I constantly google and chatgpt everything (which I think is a skill in it's own right) but I've never come across an issue that I haven't been able to solve. I actually used to take a leetcode style approach to everything where I would try to optimize algorithms as much as possible till I was told that sometimes while the N^2 approach is definitely worse than N, it really doesn't matter if N is only 10 (basically our company at it's core is just doing CRUD operations on a DB, so stop trying to over engineer things and just do it cleanly and quickly)
+* **And where I shine the most**, I have incredible soft skills and great communication. Everyone in my company thinks so and I'm constantly the person that explains the technical things to the business people. Maybe it's because I'm an idiot but usually when our engineers and management speak, it's chaos till I come in and explain everything to both sides in a way that they understand. I'm also not awkward at all (which I know is a stereotype with engineers) and my people skills are top notch imo
+
+
+I do enjoy what I do, and I'm proud that I joined a startup very early on and with only 2 engineers (me and CTO), we've built it into a platform that is actually generating a decent amount of money, (and maybe this is because we're a remote company) but I really don't see myself being good at leetcode and grinding for a SWE job where I'm just working on a codebase and barely interacting with people and just slaving away at tickets.
+
+Also even though I have a stats degree, I haven't done anything stats related in 4 years so I have 0 memory of anything stats related so don't read too much into that.
+
+Any advice is greatly appreciated, thanks for taking the time to read this!",15,https://www.reddit.com/r/cscareerquestions/comments/1jbghbb/feeling_stuck_but_also_grateful_with_my_career/
+post,2025-03-14 13:55:44,"Uninspired in current role. I miss coding.
+Sorry if this comes off as an ungrateful rant. 
+
+I was a full stack developer prior to my current role TC 60k. Current role TC 80k + pretty decent benefits and flexibility but in public sector. At my old job, I pretty much programmed all day - Python/PHP/.net + random other languages for different random apps they had. I also worked pretty independently and genuinely enjoyed just coding all day. I was very productive and genuinely enjoyed my work. I had the freedom to improve code when I saw things that weren't done properly and clean up a lot of our applications (add data validation etc.) Even back then I didn't even feel like I was using my skills fully and wanted to do more, so I left and joined my current org where I got a 25% bump in pay and became salaried. 
+
+In my current role I'm doing strictly backend integration stuff, as almost all our software is third party and my role is to just integrate data between them. I occasionally am asked to write new packages to perform new tasks, but it is rare and there's a LOT of red tape in my role so I end up slowly working on something pretty simple over several months, trying to collect requirements and a lot of testing/validation with end users. My title is now 'software engineer', it just feels like an empty title. I do a lot more project management and am in a lot more meetings. I code A LOT less. Maybe that's all titles are anyway? I just wanted to code. 
+
+I LOVE programming. I am currently in school still, finishing up the bachelors then getting my masters. My projects at school are so much fun, it feels so good to code :( I've offered to make little websites for friends who have small businesses on the side, just to use some of the skills I have and get myself to code. I've also written a lot of stuff in google workspace, little tools for my husband and I to manage our finances and automate emails/calendar stuff. I think doing a little leetcode everyday might help as well?
+
+  
+Does anyone have any advice for me? My current role is incredibly flexible and stable. I also have great tuition reimbursement (90%). I have two children and am in college so I plan on staying... But I don't want to lose my skills or my passion for programming. It feels like ever since I went from full stack development to this current position, I am barely coding. I mostly am in meetings talking through requirements and doing a lot more project related tasks, then when I code its backend integration but its not very often. 
+
+Is this normal as you grow in your career that you code less and work with people more? Has anyone else gone through this?",45,https://www.reddit.com/r/cscareerquestions/comments/1jb4gz1/uninspired_in_current_role_i_miss_coding/
+comment,2025-03-14 15:05:10,"Keep your easy job so you have time to learn a lot while completing your bachelor's degree.
+
+After graduating find a better job.  If you're not working on progressively larger software engineering projects you're eventually going to have problems getting hired due to ""insufficient trajectory.""
+
+While it's normal to code less as your career progresses, that's because you spend more time on technical leadership multiplying other peoples' output.  You're not yet at that point in your career.",5,https://www.reddit.com/r/cscareerquestions/comments/1jb4gz1/uninspired_in_current_role_i_miss_coding/
+comment,2025-03-14 14:38:02,"I think that I probably had a romanticized view of what I would do when I finally got a software engineer position... I pictured myself programming on a team and having a lot of fun. I enjoyed coding in my last role, even though I worked ""more"" than I do now, as far as total hours of active work. Now I just feel a little bit stagnant.",8,https://www.reddit.com/r/cscareerquestions/comments/1jb4gz1/uninspired_in_current_role_i_miss_coding/
+comment,2025-03-14 15:22:32,"It's nice to know someone else knows the weird feeling of being an ex housekeeper and getting the 'cushy' job. When they showed me my office on my first day I had to stop myself from crying. Its such a crazy feeling, I sometimes have a weird sense of guilt that I don't deserve my job and have to remind myself I worked for it. 
+
+""When I was a housekeeper, I found a lot of fulfillment making a bed sheet have with a tight, crisp fold."" I love this. I was like that at all my jobs too, finding the joy and passion in what I did no matter what it was. I think my romanticized view of software engineering kind of led to disappointment in my current position so I needed this reminder. I will do the job I have for a few more years and give it my all. 
+
+Thank you.",3,https://www.reddit.com/r/cscareerquestions/comments/1jb4gz1/uninspired_in_current_role_i_miss_coding/
+post,2025-03-14 05:41:44,"Walmart internship shenanigans
+Hello,
+I put out an application to a software engineering internship at Walmart back in September, took an online test, yada yada yada. It’s had a green “assessment pending” next to it ever since. I’ve now seen they’ve reposted the same internship two days ago. Should I withdraw my application and apply again?",1,https://www.reddit.com/r/cscareerquestions/comments/1jawwf0/walmart_internship_shenanigans/
+post,2025-03-13 23:10:23,"Concerned That My New Job Will Hurt My Future Prospects
+I just started my first job out of school, but it’s not what I expected from a software engineering position.
+
+Most of my work involves applying business rules to ensure data is stored correctly, so it's primarily repetitive SQL/data-related tasks. There’s no bug-fixing, no feature development, and very little exposure to a broader tech stack.
+
+I’m worried that this lack of experience with common engineering tasks will hurt my chances when applying to future software engineering roles. Should I be concerned? How can I make the most of this situation?",18,https://www.reddit.com/r/cscareerquestions/comments/1japm4b/concerned_that_my_new_job_will_hurt_my_future/
+comment,2025-03-14 03:25:28,"Hey, I totally get where you're coming from. It can feel like you're stuck doing the same SQL tasks over and over when you were expecting more variety and creative coding challenges. But here’s the thing: every job, especially early on, teaches you something—even if it doesn’t seem glamorous.
+
+First off, don’t sweat it too much. Many fresh graduates have been in similar situations where the role isn’t a full-on coding adventure. Those repetitive tasks are still valuable; they teach you discipline, attention to detail, and a deep understanding of the data side of software engineering. And hey, those skills often make you a better developer down the line.
+
+You can also make the most of this opportunity by actively seeking out side projects—maybe build your own small app or contribute to open source on platforms like GitHub. This way you can gain exposure to more feature development, bug-fixing, and a broader tech stack. Even a few hours a week on side projects can make a big difference in your portfolio.
+
+At work, it might help to talk to your manager about your career goals. Ask if there’s any chance you could get involved in different projects, or even shadow teams working on feature development. Also, if you have some spare time, consider brushing up on those other skills through online courses. We at Tech Leaders Launchpad have courses that dive into more diverse aspects of software engineering (and leadership skills too!), which might help fill in the gaps. Feel free to check us out at [https://techleaderslaunchpad.com ](https://techleaderslaunchpad.com/)for some tailored guidance.
+
+Bottom line: While your current role might not be ideal, it’s a stepping stone. Be proactive, invest in side projects, and look for learning opportunities. Over time, you'll build a robust skill set that future employers will appreciate. Keep your chin up—you’re on the right track!",3,https://www.reddit.com/r/cscareerquestions/comments/1japm4b/concerned_that_my_new_job_will_hurt_my_future/
+post,2025-03-13 22:53:04,"Currently contracted to work for NASA remotely doing web development. Should I stay?
+I’m making 85k salary as a software engineer since November now working for a small defense company that’s a sub on a contract that’s doing work for NASA. I don’t work directly for NASA but I have a NASA email, badge and computer. So I guess it’s NASA? I primarily work with other contractors and consult with civil servants (actual NASA workers) on what to deliver. No, it was has nothing to do with space or rockets. Mainly just working on internal tools and public facing sites and what not.
+
+Is this considered a relatively prestigious position that will help my career in the future? How do I even accurately display this on my resume?
+
+I’ve been applying around lately just because I’m worried about the federal cuts. Thoughts?",71,https://www.reddit.com/r/cscareerquestions/comments/1jap7rz/currently_contracted_to_work_for_nasa_remotely/
+comment,2025-03-13 23:01:16,"> How do I even accurately display this on my resume?
+
+Software Engineer \t November 2024 - Present
+
+Subcontractor Company Name (NASA) \t Remote
+
+or if you don't want to name drop in headline, put it in a bullet",11,https://www.reddit.com/r/cscareerquestions/comments/1jap7rz/currently_contracted_to_work_for_nasa_remotely/
+comment,2025-03-13 22:58:53,"> How do I even accurately display this on my resume? 
+
+I feel like saying you worked for NASA is disingenous and straight up lying. NASA didn't write your paycheck, the contractor did, and your NASA badge (PIV) should have a green stripe on it denoting you're a contractor, no?
+
+I would do
+
+Software Engineer, [contractor name]
+
+* Maintained website for the National Aeronautics and Space Administration",62,https://www.reddit.com/r/cscareerquestions/comments/1jap7rz/currently_contracted_to_work_for_nasa_remotely/
+post,2025-03-13 22:38:58,"From Windows to a View
+Basically, I have been a Software Engineer for over six years now, and somehow have been in companies that exclusively used windows laptops and have been able to avoid using zlinux or MacOS. 
+
+Now I have accepted a new role and for the first time, my company laptop will be an apple device! I am not sure if that means I have graduated from Start-Up developer budgets to the big leagues, but I now turn to my fellow engineers for advice. 
+
+What should I know before day one, any tips on the transition or applications that are exclusive to the apple ecosystem I should check out?",2,https://www.reddit.com/r/cscareerquestions/comments/1jaowds/from_windows_to_a_view/
+post,2025-03-13 20:02:05,"SWE Internship: PlayStation (San Mateo) vs. Tesla (Palo Alto – Mobile Engineering) – Which One to Pick?
+After sending out 400+ applications, I finally secured two SWE internships, and now I’m having difficulty choosing between them. Both seem like incredible opportunities, and I’d love to hear from people who have interned or worked at either company. I’m a Master’s student in Software Engineering, and I want to make the best choice for my growth and future career. Which one would you pick and why?.
+
+Edit: Both roles offer similar pay, are focused on mobile development, and differ in work structure: PlayStation is hybrid, while Tesla requires full office days. I'm looking for a good return offer potential/conversion rates and future career growth.
+",0,https://www.reddit.com/r/cscareerquestions/comments/1jal8hp/swe_internship_playstation_san_mateo_vs_tesla/
+post,2025-03-13 17:10:33,"Want to do better
+I am coming up on 10 years as a software engineer and honestly have had a very successful career up until this point. I have spent a good part of the past 2 years working on mobile apps but honestly I am a full stack developer and have a pretty extensive grasp of C# and .NET along with other languages. Now a days I'm mostly working in React native with typescript, writing .NET backend with sql server or azure (not my first choice, its what my company uses).
+
+I am confident in my abilities as a developer and honestly think I'm pretty good at what I do but the reality is, I feel like the work I do is nothing amazing. Working in the Typescript/javascript eco-system there is always another dependency to reach for to help you get work done faster and while thats great for shipping features fast, I feel like I am totally replaceable because of it. I feel like I'm just glueing dependencies together and with AI getting better and better (though its still kinda bad right now) I worry about the work I do still being useful in like 5 -10 years.
+
+Recently, I have really wanted to pivot to working on more complex/system level stuff. I am tired of just writing the same crud apps over and over and I want to be like a real software engineer. I want to work on stuff that solves real problems and I want to be really good at it. I understand that what I do now has its complexities and people definitely see value in it but I want to be irreplaceable. I have honestly never really done any lower level projects, I found this github [https://github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) and think this maybe a good starting point. I've worked with Go a little in the past and really loved it. I'm also interested in C and Zig. I understand the language doesn't matter tooo much but starting with C feels like a good starting point.
+
+Any advice for someone in my situation? Has anyone made the same pivot and have stories to share?",2,https://www.reddit.com/r/cscareerquestions/comments/1jah328/want_to_do_better/

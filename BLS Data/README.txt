@@ -13,4 +13,12 @@ Using the newly created JSON files as a guideline, I use them to get all the ind
 organization:
 This organizes all the datasets and joins the three. I organize by getting rid of the series_id and inputting the new "name" column for joining. I also noticed that the JT dataset split the "government" industry into "local and state" and "federal" or something along those lines, so I grouped and aggregated their values into one row (from two) so that joining would be 1-to-1. I then joined (merged) the three data frames and then transferred it into a JSON file, final_output.JSON.
 
-The data to be used for the project is currently held in the output folder as final_output.JSON.
+data_merge:
+After taking the BLS data from the API, it was merged with other hypotheses that looked at Reddit API data as well, resulting in another intermediary file in the output folder called "merged_data.json".
+
+clean_data:
+Finally, "merged_data.json" was cleaned and thus led to the actual final data file to be labeled, "cleaned_data.json" file. Our final resulting JSON file is structured primarily by industry name, and there are multiple columns that list the month/year's statistics and influential reddit post that we scraped via an API. To delve into our fields, we have 7 influential fields worth documenting:
+
+"sector": the industry/sector that includes construction, information, education, etc. such that these names are overarching umbrellas terms for wide arrays of jobs. This field is required and should not be null. We have 10 possible values for industries, contained in: ['mining and logging', 'construction', 'manufacturing', 'trade, transportation, and utilities', 'information', 'financial activities', 'professional and business services', 'private education and health services', 'leisure and hospitality', 'government']. 
+
+"year"/"Month": self-explanatory; we organize our data based on time-frame of the year. These fields are required, and cannot be null. This value is not technically unique considering that we observe the same time frames across 10 different industries.

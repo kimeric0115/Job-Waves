@@ -8,7 +8,7 @@ from sklearn.model_selection import TimeSeriesSplit
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-input_file = '../data_deliverable/BLS_Reddit Merged/cleaned_data.json'
+input_file = 'BLS Data/output/cleaned_data.json'
 # data_file = "hypo2_data.json"
 
 with open(input_file, "r", encoding="utf-8") as f:
