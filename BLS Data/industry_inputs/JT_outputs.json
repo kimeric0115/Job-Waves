@@ -1,0 +1,198 @@
+[
+    {
+        "industry_code": "000000",
+        "industry_text": "Total nonfarm",
+        "display_level": "0",
+        "selectable": "T",
+        "sort_sequence": "1"
+    },
+    {
+        "industry_code": "100000",
+        "industry_text": "Total private",
+        "display_level": "1",
+        "selectable": "T",
+        "sort_sequence": "2"
+    },
+    {
+        "industry_code": "110099",
+        "industry_text": "Mining and logging",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "3"
+    },
+    {
+        "industry_code": "230000",
+        "industry_text": "Construction",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "4"
+    },
+    {
+        "industry_code": "300000",
+        "industry_text": "Manufacturing",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "5"
+    },
+    {
+        "industry_code": "320000",
+        "industry_text": "Durable goods manufacturing",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "6"
+    },
+    {
+        "industry_code": "340000",
+        "industry_text": "Nondurable goods manufacturing",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "7"
+    },
+    {
+        "industry_code": "400000",
+        "industry_text": "Trade, transportation, and utilities",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "8"
+    },
+    {
+        "industry_code": "420000",
+        "industry_text": "Wholesale trade",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "9"
+    },
+    {
+        "industry_code": "440000",
+        "industry_text": "Retail trade",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "10"
+    },
+    {
+        "industry_code": "480099",
+        "industry_text": "Transportation, warehousing, and utilities",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "11"
+    },
+    {
+        "industry_code": "510000",
+        "industry_text": "Information",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "12"
+    },
+    {
+        "industry_code": "510099",
+        "industry_text": "Financial activities",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "13"
+    },
+    {
+        "industry_code": "520000",
+        "industry_text": "Finance and insurance",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "14"
+    },
+    {
+        "industry_code": "530000",
+        "industry_text": "Real estate and rental and leasing",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "15"
+    },
+    {
+        "industry_code": "540099",
+        "industry_text": "Professional and business services",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "16"
+    },
+    {
+        "industry_code": "600000",
+        "industry_text": "Private education and health services",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "17"
+    },
+    {
+        "industry_code": "610000",
+        "industry_text": "Private educational services",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "18"
+    },
+    {
+        "industry_code": "620000",
+        "industry_text": "Health care and social assistance",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "19"
+    },
+    {
+        "industry_code": "700000",
+        "industry_text": "Leisure and hospitality",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "20"
+    },
+    {
+        "industry_code": "710000",
+        "industry_text": "Arts, entertainment, and recreation",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "21"
+    },
+    {
+        "industry_code": "720000",
+        "industry_text": "Accommodation and food services",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "22"
+    },
+    {
+        "industry_code": "810000",
+        "industry_text": "Other services",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "23"
+    },
+    {
+        "industry_code": "900000",
+        "industry_text": "Government",
+        "display_level": "1",
+        "selectable": "T",
+        "sort_sequence": "24"
+    },
+    {
+        "industry_code": "910000",
+        "industry_text": "Federal",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "25"
+    },
+    {
+        "industry_code": "920000",
+        "industry_text": "State and local",
+        "display_level": "2",
+        "selectable": "T",
+        "sort_sequence": "26"
+    },
+    {
+        "industry_code": "923000",
+        "industry_text": "State and local government education",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "27"
+    },
+    {
+        "industry_code": "929000",
+        "industry_text": "State and local government, excluding education",
+        "display_level": "3",
+        "selectable": "T",
+        "sort_sequence": "28"
+    }
+]

@@ -1,0 +1,1362 @@
+[
+    {
+        "industry_code": "00000000",
+        "industry_name": "Total Nonfarm"
+    },
+    {
+        "industry_code": "05000000",
+        "industry_name": "Total Private"
+    },
+    {
+        "industry_code": "06000000",
+        "industry_name": "Goods Producing"
+    },
+    {
+        "industry_code": "07000000",
+        "industry_name": "Service-Providing"
+    },
+    {
+        "industry_code": "08000000",
+        "industry_name": "Private Service Providing"
+    },
+    {
+        "industry_code": "10000000",
+        "industry_name": "Mining and Logging"
+    },
+    {
+        "industry_code": "10113300",
+        "industry_name": "Logging"
+    },
+    {
+        "industry_code": "10210000",
+        "industry_name": "Mining, Quarrying, and Oil and Gas Extraction"
+    },
+    {
+        "industry_code": "10211000",
+        "industry_name": "Oil and Gas Extraction"
+    },
+    {
+        "industry_code": "10212000",
+        "industry_name": "Mining (except Oil and Gas)"
+    },
+    {
+        "industry_code": "10212100",
+        "industry_name": "Coal Mining"
+    },
+    {
+        "industry_code": "10212200",
+        "industry_name": "Metal Ore Mining"
+    },
+    {
+        "industry_code": "10213000",
+        "industry_name": "Support Activities for Mining"
+    },
+    {
+        "industry_code": "10213111",
+        "industry_name": "Drilling Oil and Gas Wells"
+    },
+    {
+        "industry_code": "10213112",
+        "industry_name": "Support Activities for Oil and Gas Operations"
+    },
+    {
+        "industry_code": "15000000",
+        "industry_name": "Mining, Logging and Construction"
+    },
+    {
+        "industry_code": "20000000",
+        "industry_name": "Construction"
+    },
+    {
+        "industry_code": "20236000",
+        "industry_name": "Construction of Buildings"
+    },
+    {
+        "industry_code": "20236100",
+        "industry_name": "Residential Building Construction"
+    },
+    {
+        "industry_code": "20236200",
+        "industry_name": "Nonresidential Building Construction"
+    },
+    {
+        "industry_code": "20237000",
+        "industry_name": "Heavy and Civil Engineering Construction"
+    },
+    {
+        "industry_code": "20237100",
+        "industry_name": "Utility System Construction"
+    },
+    {
+        "industry_code": "20237200",
+        "industry_name": "Land Subdivision"
+    },
+    {
+        "industry_code": "20237300",
+        "industry_name": "Highway, Street, and Bridge Construction"
+    },
+    {
+        "industry_code": "20237900",
+        "industry_name": "Other Heavy and Civil Engineering Construction"
+    },
+    {
+        "industry_code": "20238000",
+        "industry_name": "Specialty Trade Contractors"
+    },
+    {
+        "industry_code": "20238100",
+        "industry_name": "Foundation, Structure, and Building Exterior Contractors"
+    },
+    {
+        "industry_code": "20238200",
+        "industry_name": "Building Equipment Contractors"
+    },
+    {
+        "industry_code": "20238300",
+        "industry_name": "Building Finishing Contractors"
+    },
+    {
+        "industry_code": "20238900",
+        "industry_name": "Other Specialty Trade Contractors"
+    },
+    {
+        "industry_code": "30000000",
+        "industry_name": "Manufacturing"
+    },
+    {
+        "industry_code": "31000000",
+        "industry_name": "Durable Goods"
+    },
+    {
+        "industry_code": "31321000",
+        "industry_name": "Wood Product Manufacturing"
+    },
+    {
+        "industry_code": "31321100",
+        "industry_name": "Sawmills and Wood Preservation"
+    },
+    {
+        "industry_code": "31321200",
+        "industry_name": "Veneer, Plywood, and Engineered Wood Product Manufacturing"
+    },
+    {
+        "industry_code": "31321900",
+        "industry_name": "Other Wood Product Manufacturing"
+    },
+    {
+        "industry_code": "31327000",
+        "industry_name": "Nonmetallic Mineral Product Manufacturing"
+    },
+    {
+        "industry_code": "31327300",
+        "industry_name": "Cement and Concrete Product Manufacturing"
+    },
+    {
+        "industry_code": "31331000",
+        "industry_name": "Primary Metal Manufacturing"
+    },
+    {
+        "industry_code": "31331100",
+        "industry_name": "Iron and Steel Mills and Ferroalloy Manufacturing"
+    },
+    {
+        "industry_code": "31331500",
+        "industry_name": "Foundries"
+    },
+    {
+        "industry_code": "31332000",
+        "industry_name": "Fabricated Metal Product Manufacturing"
+    },
+    {
+        "industry_code": "31332300",
+        "industry_name": "Architectural and Structural Metals Manufacturing"
+    },
+    {
+        "industry_code": "31332700",
+        "industry_name": "Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"
+    },
+    {
+        "industry_code": "31332900",
+        "industry_name": "Other Fabricated Metal Product Manufacturing"
+    },
+    {
+        "industry_code": "31333000",
+        "industry_name": "Machinery Manufacturing"
+    },
+    {
+        "industry_code": "31333100",
+        "industry_name": "Agriculture, Construction, and Mining Machinery Manufacturing"
+    },
+    {
+        "industry_code": "31333200",
+        "industry_name": "Industrial Machinery Manufacturing"
+    },
+    {
+        "industry_code": "31333300",
+        "industry_name": "Commercial and Service Industry Machinery Manufacturing"
+    },
+    {
+        "industry_code": "31333500",
+        "industry_name": "Metalworking Machinery Manufacturing"
+    },
+    {
+        "industry_code": "31333600",
+        "industry_name": "Engine, Turbine, and Power Transmission Equipment Manufacturing"
+    },
+    {
+        "industry_code": "31333900",
+        "industry_name": "Other General Purpose Machinery Manufacturing"
+    },
+    {
+        "industry_code": "31334000",
+        "industry_name": "Computer and Electronic Product Manufacturing"
+    },
+    {
+        "industry_code": "31334100",
+        "industry_name": "Computer and Peripheral Equipment Manufacturing"
+    },
+    {
+        "industry_code": "31334111",
+        "industry_name": "Electronic Computer Manufacturing"
+    },
+    {
+        "industry_code": "31334200",
+        "industry_name": "Communications Equipment Manufacturing"
+    },
+    {
+        "industry_code": "31334400",
+        "industry_name": "Semiconductor and Other Electronic Component Manufacturing"
+    },
+    {
+        "industry_code": "31334412",
+        "industry_name": "Bare Printed Circuit Board Manufacturing"
+    },
+    {
+        "industry_code": "31334413",
+        "industry_name": "Semiconductor and Related Device Manufacturing"
+    },
+    {
+        "industry_code": "31334500",
+        "industry_name": "Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
+    },
+    {
+        "industry_code": "31335000",
+        "industry_name": "Electrical Equipment, Appliance, and Component Manufacturing"
+    },
+    {
+        "industry_code": "31335200",
+        "industry_name": "Household Appliance Manufacturing"
+    },
+    {
+        "industry_code": "31335300",
+        "industry_name": "Electrical Equipment Manufacturing"
+    },
+    {
+        "industry_code": "31336000",
+        "industry_name": "Transportation Equipment Manufacturing"
+    },
+    {
+        "industry_code": "31336100",
+        "industry_name": "Motor Vehicle Manufacturing"
+    },
+    {
+        "industry_code": "31336200",
+        "industry_name": "Motor Vehicle Body and Trailer Manufacturing"
+    },
+    {
+        "industry_code": "31336300",
+        "industry_name": "Motor Vehicle Parts Manufacturing"
+    },
+    {
+        "industry_code": "31336400",
+        "industry_name": "Aerospace Product and Parts Manufacturing"
+    },
+    {
+        "industry_code": "31336600",
+        "industry_name": "Ship and Boat Building"
+    },
+    {
+        "industry_code": "31337000",
+        "industry_name": "Furniture and Related Product Manufacturing"
+    },
+    {
+        "industry_code": "31337100",
+        "industry_name": "Household and Institutional Furniture and Kitchen Cabinet Manufacturing"
+    },
+    {
+        "industry_code": "31339000",
+        "industry_name": "Miscellaneous Manufacturing"
+    },
+    {
+        "industry_code": "31339100",
+        "industry_name": "Medical Equipment and Supplies Manufacturing"
+    },
+    {
+        "industry_code": "31339900",
+        "industry_name": "Other Miscellaneous Manufacturing"
+    },
+    {
+        "industry_code": "31339910",
+        "industry_name": "Jewelry and Silverware Manufacturing"
+    },
+    {
+        "industry_code": "32000000",
+        "industry_name": "Non-Durable Goods"
+    },
+    {
+        "industry_code": "32311000",
+        "industry_name": "Food Manufacturing"
+    },
+    {
+        "industry_code": "32311200",
+        "industry_name": "Grain and Oilseed Milling"
+    },
+    {
+        "industry_code": "32311400",
+        "industry_name": "Fruit and Vegetable Preserving and Specialty Food Manufacturing"
+    },
+    {
+        "industry_code": "32311500",
+        "industry_name": "Dairy Product Manufacturing"
+    },
+    {
+        "industry_code": "32311600",
+        "industry_name": "Animal Slaughtering and Processing"
+    },
+    {
+        "industry_code": "32311700",
+        "industry_name": "Seafood Product Preparation and Packaging"
+    },
+    {
+        "industry_code": "32311800",
+        "industry_name": "Bakeries and Tortilla Manufacturing"
+    },
+    {
+        "industry_code": "32311900",
+        "industry_name": "Other Food Manufacturing"
+    },
+    {
+        "industry_code": "32312000",
+        "industry_name": "Beverage and Tobacco Product Manufacturing"
+    },
+    {
+        "industry_code": "32312100",
+        "industry_name": "Beverage Manufacturing"
+    },
+    {
+        "industry_code": "32312200",
+        "industry_name": "Tobacco Manufacturing"
+    },
+    {
+        "industry_code": "32313000",
+        "industry_name": "Textile Mills"
+    },
+    {
+        "industry_code": "32313100",
+        "industry_name": "Fiber, Yarn, and Thread Mills"
+    },
+    {
+        "industry_code": "32313200",
+        "industry_name": "Fabric Mills"
+    },
+    {
+        "industry_code": "32313300",
+        "industry_name": "Textile and Fabric Finishing and Fabric Coating Mills"
+    },
+    {
+        "industry_code": "32314000",
+        "industry_name": "Textile Product Mills"
+    },
+    {
+        "industry_code": "32314100",
+        "industry_name": "Textile Furnishings Mills"
+    },
+    {
+        "industry_code": "32315000",
+        "industry_name": "Apparel Manufacturing"
+    },
+    {
+        "industry_code": "32315100",
+        "industry_name": "Apparel Knitting Mills"
+    },
+    {
+        "industry_code": "32315200",
+        "industry_name": "Cut and Sew Apparel Manufacturing"
+    },
+    {
+        "industry_code": "32322000",
+        "industry_name": "Paper Manufacturing"
+    },
+    {
+        "industry_code": "32322100",
+        "industry_name": "Pulp, Paper, and Paperboard Mills"
+    },
+    {
+        "industry_code": "32322200",
+        "industry_name": "Converted Paper Product Manufacturing"
+    },
+    {
+        "industry_code": "32323000",
+        "industry_name": "Printing and Related Support Activities"
+    },
+    {
+        "industry_code": "32324000",
+        "industry_name": "Petroleum and Coal Products Manufacturing"
+    },
+    {
+        "industry_code": "32325000",
+        "industry_name": "Chemical Manufacturing"
+    },
+    {
+        "industry_code": "32325100",
+        "industry_name": "Basic Chemical Manufacturing"
+    },
+    {
+        "industry_code": "32325400",
+        "industry_name": "Pharmaceutical and Medicine Manufacturing"
+    },
+    {
+        "industry_code": "32325600",
+        "industry_name": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing"
+    },
+    {
+        "industry_code": "32326000",
+        "industry_name": "Plastics and Rubber Products Manufacturing"
+    },
+    {
+        "industry_code": "32326100",
+        "industry_name": "Plastics Product Manufacturing"
+    },
+    {
+        "industry_code": "32326200",
+        "industry_name": "Rubber Product Manufacturing"
+    },
+    {
+        "industry_code": "40000000",
+        "industry_name": "Trade, Transportation, and Utilities"
+    },
+    {
+        "industry_code": "41000000",
+        "industry_name": "Wholesale Trade"
+    },
+    {
+        "industry_code": "41423000",
+        "industry_name": "Merchant Wholesalers, Durable Goods"
+    },
+    {
+        "industry_code": "41423100",
+        "industry_name": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41423200",
+        "industry_name": "Furniture and Home Furnishing Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41423300",
+        "industry_name": "Lumber and Other Construction Materials Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41423400",
+        "industry_name": "Professional and Commercial Equipment and Supplies Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41423600",
+        "industry_name": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41423700",
+        "industry_name": "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41423800",
+        "industry_name": "Machinery, Equipment, and Supplies Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41423900",
+        "industry_name": "Miscellaneous Durable Goods Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41424000",
+        "industry_name": "Merchant Wholesalers, Nondurable Goods"
+    },
+    {
+        "industry_code": "41424100",
+        "industry_name": "Paper and Paper Product Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41424300",
+        "industry_name": "Apparel, Piece Goods, and Notions Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41424400",
+        "industry_name": "Grocery and Related Product Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41424600",
+        "industry_name": "Chemical and Allied Products Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41424900",
+        "industry_name": "Miscellaneous Nondurable Goods Merchant Wholesalers"
+    },
+    {
+        "industry_code": "41425000",
+        "industry_name": "Wholesale Trade Agents and Brokers"
+    },
+    {
+        "industry_code": "42000000",
+        "industry_name": "Retail Trade"
+    },
+    {
+        "industry_code": "42441000",
+        "industry_name": "Motor Vehicle and Parts Dealers"
+    },
+    {
+        "industry_code": "42441100",
+        "industry_name": "Automobile Dealers"
+    },
+    {
+        "industry_code": "42441200",
+        "industry_name": "Other Motor Vehicle Dealers"
+    },
+    {
+        "industry_code": "42441300",
+        "industry_name": "Automotive Parts, Accessories, and Tire Retailers"
+    },
+    {
+        "industry_code": "42444000",
+        "industry_name": "Building Material and Garden Equipment and Supplies Dealers"
+    },
+    {
+        "industry_code": "42444100",
+        "industry_name": "Building Material and Supplies Dealers"
+    },
+    {
+        "industry_code": "42445000",
+        "industry_name": "Food and Beverage Retailers"
+    },
+    {
+        "industry_code": "42445100",
+        "industry_name": "Grocery and Convenience Retailers"
+    },
+    {
+        "industry_code": "42445200",
+        "industry_name": "Specialty Food Retailers"
+    },
+    {
+        "industry_code": "42445300",
+        "industry_name": "Beer, Wine, and Liquor Retailers"
+    },
+    {
+        "industry_code": "42449000",
+        "industry_name": "Furniture, Home Furnishings, Electronics, and Appliance Retailers"
+    },
+    {
+        "industry_code": "42449100",
+        "industry_name": "Furniture and Home Furnishings Retailers"
+    },
+    {
+        "industry_code": "42449110",
+        "industry_name": "Furniture Retailers"
+    },
+    {
+        "industry_code": "42449120",
+        "industry_name": "Home Furnishings Retailers"
+    },
+    {
+        "industry_code": "42449200",
+        "industry_name": "Electronics and Appliance Retailers"
+    },
+    {
+        "industry_code": "42455000",
+        "industry_name": "General Merchandise Retailers"
+    },
+    {
+        "industry_code": "42455100",
+        "industry_name": "Department Stores"
+    },
+    {
+        "industry_code": "42455200",
+        "industry_name": "Warehouse Clubs, Supercenters, and Other General Merchandise Retailers"
+    },
+    {
+        "industry_code": "42456000",
+        "industry_name": "Health and Personal Care Retailers"
+    },
+    {
+        "industry_code": "42457000",
+        "industry_name": "Gasoline Stations and Fuel Dealers"
+    },
+    {
+        "industry_code": "42458000",
+        "industry_name": "Clothing, Clothing Accessories, Shoe, and Jewelry Retailers"
+    },
+    {
+        "industry_code": "42458100",
+        "industry_name": "Clothing and Clothing Accessories Retailers"
+    },
+    {
+        "industry_code": "42458300",
+        "industry_name": "Jewelry, Luggage, and Leather Goods Retailers"
+    },
+    {
+        "industry_code": "42459000",
+        "industry_name": "Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers"
+    },
+    {
+        "industry_code": "42459100",
+        "industry_name": "Sporting Goods, Hobby, and Musical Instrument Retailers"
+    },
+    {
+        "industry_code": "42459200",
+        "industry_name": "Book Retailers and News Dealers"
+    },
+    {
+        "industry_code": "42459400",
+        "industry_name": "Office Supplies, Stationery, and Gift Retailers"
+    },
+    {
+        "industry_code": "42459500",
+        "industry_name": "Used Merchandise Retailers"
+    },
+    {
+        "industry_code": "42459900",
+        "industry_name": "Other Miscellaneous Retailers"
+    },
+    {
+        "industry_code": "43000000",
+        "industry_name": "Transportation, Warehousing, and Utilities"
+    },
+    {
+        "industry_code": "43220000",
+        "industry_name": "Utilities"
+    },
+    {
+        "industry_code": "43221100",
+        "industry_name": "Electric Power Generation, Transmission and Distribution"
+    },
+    {
+        "industry_code": "43221200",
+        "industry_name": "Natural Gas Distribution"
+    },
+    {
+        "industry_code": "43400089",
+        "industry_name": "Transportation and Warehousing"
+    },
+    {
+        "industry_code": "43481000",
+        "industry_name": "Air Transportation"
+    },
+    {
+        "industry_code": "43481100",
+        "industry_name": "Scheduled Air Transportation"
+    },
+    {
+        "industry_code": "43482000",
+        "industry_name": "Rail Transportation"
+    },
+    {
+        "industry_code": "43483000",
+        "industry_name": "Water Transportation"
+    },
+    {
+        "industry_code": "43484000",
+        "industry_name": "Truck Transportation"
+    },
+    {
+        "industry_code": "43484100",
+        "industry_name": "General Freight Trucking"
+    },
+    {
+        "industry_code": "43484200",
+        "industry_name": "Specialized Freight Trucking"
+    },
+    {
+        "industry_code": "43485000",
+        "industry_name": "Transit and Ground Passenger Transportation"
+    },
+    {
+        "industry_code": "43485300",
+        "industry_name": "Taxi and Limousine Service"
+    },
+    {
+        "industry_code": "43485400",
+        "industry_name": "School and Employee Bus Transportation"
+    },
+    {
+        "industry_code": "43486000",
+        "industry_name": "Pipeline Transportation"
+    },
+    {
+        "industry_code": "43488000",
+        "industry_name": "Support Activities for Transportation"
+    },
+    {
+        "industry_code": "43488100",
+        "industry_name": "Support Activities for Air Transportation"
+    },
+    {
+        "industry_code": "43488300",
+        "industry_name": "Support Activities for Water Transportation"
+    },
+    {
+        "industry_code": "43488400",
+        "industry_name": "Support Activities for Road Transportation"
+    },
+    {
+        "industry_code": "43488500",
+        "industry_name": "Freight Transportation Arrangement"
+    },
+    {
+        "industry_code": "43492000",
+        "industry_name": "Couriers and Messengers"
+    },
+    {
+        "industry_code": "43493000",
+        "industry_name": "Warehousing and Storage"
+    },
+    {
+        "industry_code": "50000000",
+        "industry_name": "Information"
+    },
+    {
+        "industry_code": "50512000",
+        "industry_name": "Motion Picture and Sound Recording Industries"
+    },
+    {
+        "industry_code": "50512100",
+        "industry_name": "Motion Picture and Video Industries"
+    },
+    {
+        "industry_code": "50512110",
+        "industry_name": "Motion Picture and Video Production"
+    },
+    {
+        "industry_code": "50513000",
+        "industry_name": "Publishing Industries"
+    },
+    {
+        "industry_code": "50513100",
+        "industry_name": "Newspaper, Periodical, Book, and Directory Publishers"
+    },
+    {
+        "industry_code": "50513200",
+        "industry_name": "Software Publishers"
+    },
+    {
+        "industry_code": "50516000",
+        "industry_name": "Broadcasting and Content Providers"
+    },
+    {
+        "industry_code": "50516100",
+        "industry_name": "Radio and Television Broadcasting Stations"
+    },
+    {
+        "industry_code": "50516200",
+        "industry_name": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers"
+    },
+    {
+        "industry_code": "50517000",
+        "industry_name": "Telecommunications"
+    },
+    {
+        "industry_code": "50517100",
+        "industry_name": "Wired and Wireless Telecommunications (except Satellite)"
+    },
+    {
+        "industry_code": "50517111",
+        "industry_name": "Wired Telecommunications Carriers"
+    },
+    {
+        "industry_code": "50518000",
+        "industry_name": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services"
+    },
+    {
+        "industry_code": "50519000",
+        "industry_name": "Web Search Portals, Libraries, Archives, and Other Information Services"
+    },
+    {
+        "industry_code": "55000000",
+        "industry_name": "Financial Activities"
+    },
+    {
+        "industry_code": "55520000",
+        "industry_name": "Finance and Insurance"
+    },
+    {
+        "industry_code": "55522000",
+        "industry_name": "Credit Intermediation and Related Activities including Monetary Authorities - Central Bank"
+    },
+    {
+        "industry_code": "55522100",
+        "industry_name": "Depository Credit Intermediation including Monetary Authorities - Central Bank"
+    },
+    {
+        "industry_code": "55522110",
+        "industry_name": "Commercial Banking"
+    },
+    {
+        "industry_code": "55522200",
+        "industry_name": "Nondepository Credit Intermediation"
+    },
+    {
+        "industry_code": "55522300",
+        "industry_name": "Activities Related to Credit Intermediation"
+    },
+    {
+        "industry_code": "55523000",
+        "industry_name": "Financial Investments and Related Activities including Financial Vehicles"
+    },
+    {
+        "industry_code": "55523100",
+        "industry_name": "Securities and Commodity Contracts Intermediation and Brokerage"
+    },
+    {
+        "industry_code": "55523150",
+        "industry_name": "Investment Banking and Securities Intermediation"
+    },
+    {
+        "industry_code": "55523900",
+        "industry_name": "Other Financial Investment Activities including Financial Vehicles"
+    },
+    {
+        "industry_code": "55524000",
+        "industry_name": "Insurance Carriers and Related Activities"
+    },
+    {
+        "industry_code": "55524100",
+        "industry_name": "Insurance Carriers"
+    },
+    {
+        "industry_code": "55524113",
+        "industry_name": "Direct Life Insurance Carriers"
+    },
+    {
+        "industry_code": "55524114",
+        "industry_name": "Direct Health and Medical Insurance Carriers"
+    },
+    {
+        "industry_code": "55524126",
+        "industry_name": "Direct Property and Casualty Insurance Carriers"
+    },
+    {
+        "industry_code": "55524200",
+        "industry_name": "Agencies, Brokerages, and Other Insurance Related Activities"
+    },
+    {
+        "industry_code": "55530000",
+        "industry_name": "Real Estate and Rental and Leasing"
+    },
+    {
+        "industry_code": "55531000",
+        "industry_name": "Real Estate"
+    },
+    {
+        "industry_code": "55531100",
+        "industry_name": "Lessors of Real Estate"
+    },
+    {
+        "industry_code": "55531200",
+        "industry_name": "Offices of Real Estate Agents and Brokers"
+    },
+    {
+        "industry_code": "55531300",
+        "industry_name": "Activities Related to Real Estate"
+    },
+    {
+        "industry_code": "55532000",
+        "industry_name": "Rental and Leasing Services"
+    },
+    {
+        "industry_code": "55532100",
+        "industry_name": "Automotive Equipment Rental and Leasing"
+    },
+    {
+        "industry_code": "55532200",
+        "industry_name": "Consumer Goods Rental"
+    },
+    {
+        "industry_code": "55532300",
+        "industry_name": "General Rental Centers"
+    },
+    {
+        "industry_code": "55532400",
+        "industry_name": "Commercial and Industrial Machinery and Equipment Rental and Leasing"
+    },
+    {
+        "industry_code": "60000000",
+        "industry_name": "Professional and Business Services"
+    },
+    {
+        "industry_code": "60540000",
+        "industry_name": "Professional, Scientific, and Technical Services"
+    },
+    {
+        "industry_code": "60541100",
+        "industry_name": "Legal Services"
+    },
+    {
+        "industry_code": "60541200",
+        "industry_name": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services"
+    },
+    {
+        "industry_code": "60541300",
+        "industry_name": "Architectural, Engineering, and Related Services"
+    },
+    {
+        "industry_code": "60541400",
+        "industry_name": "Specialized Design Services"
+    },
+    {
+        "industry_code": "60541500",
+        "industry_name": "Computer Systems Design and Related Services"
+    },
+    {
+        "industry_code": "60541600",
+        "industry_name": "Management, Scientific, and Technical Consulting Services"
+    },
+    {
+        "industry_code": "60541700",
+        "industry_name": "Scientific Research and Development Services"
+    },
+    {
+        "industry_code": "60541800",
+        "industry_name": "Advertising, Public Relations, and Related Services"
+    },
+    {
+        "industry_code": "60541900",
+        "industry_name": "Other Professional, Scientific, and Technical Services"
+    },
+    {
+        "industry_code": "60550000",
+        "industry_name": "Management of Companies and Enterprises"
+    },
+    {
+        "industry_code": "60560000",
+        "industry_name": "Administrative and Support and Waste Management and Remediation Services"
+    },
+    {
+        "industry_code": "60561000",
+        "industry_name": "Administrative and Support Services"
+    },
+    {
+        "industry_code": "60561100",
+        "industry_name": "Office Administrative Services"
+    },
+    {
+        "industry_code": "60561200",
+        "industry_name": "Facilities Support Services"
+    },
+    {
+        "industry_code": "60561300",
+        "industry_name": "Employment Services"
+    },
+    {
+        "industry_code": "60561320",
+        "industry_name": "Temporary Help Services"
+    },
+    {
+        "industry_code": "60561400",
+        "industry_name": "Business Support Services"
+    },
+    {
+        "industry_code": "60561420",
+        "industry_name": "Telephone Call Centers"
+    },
+    {
+        "industry_code": "60561500",
+        "industry_name": "Travel Arrangement and Reservation Services"
+    },
+    {
+        "industry_code": "60561600",
+        "industry_name": "Investigation and Security Services"
+    },
+    {
+        "industry_code": "60561610",
+        "industry_name": "Investigation, Guard, and Armored Car Services"
+    },
+    {
+        "industry_code": "60561700",
+        "industry_name": "Services to Buildings and Dwellings"
+    },
+    {
+        "industry_code": "60561900",
+        "industry_name": "Other Support Services"
+    },
+    {
+        "industry_code": "60562000",
+        "industry_name": "Waste Management and Remediation Services"
+    },
+    {
+        "industry_code": "65000000",
+        "industry_name": "Private Education and Health Services"
+    },
+    {
+        "industry_code": "65610000",
+        "industry_name": "Private Educational Services"
+    },
+    {
+        "industry_code": "65611100",
+        "industry_name": "Private Elementary and Secondary Schools"
+    },
+    {
+        "industry_code": "65611200",
+        "industry_name": "Private Junior Colleges"
+    },
+    {
+        "industry_code": "65611300",
+        "industry_name": "Private Colleges, Universities, and Professional Schools"
+    },
+    {
+        "industry_code": "65611600",
+        "industry_name": "Other Private School and Instruction"
+    },
+    {
+        "industry_code": "65620000",
+        "industry_name": "Health Care and Social Assistance"
+    },
+    {
+        "industry_code": "65621000",
+        "industry_name": "Ambulatory Health Care Services"
+    },
+    {
+        "industry_code": "65621100",
+        "industry_name": "Offices of Physicians"
+    },
+    {
+        "industry_code": "65621200",
+        "industry_name": "Offices of Dentists"
+    },
+    {
+        "industry_code": "65621300",
+        "industry_name": "Offices of Other Health Practitioners"
+    },
+    {
+        "industry_code": "65621400",
+        "industry_name": "Outpatient Care Centers"
+    },
+    {
+        "industry_code": "65621500",
+        "industry_name": "Medical and Diagnostic Laboratories"
+    },
+    {
+        "industry_code": "65621600",
+        "industry_name": "Home Health Care Services"
+    },
+    {
+        "industry_code": "65621900",
+        "industry_name": "Other Ambulatory Health Care Services"
+    },
+    {
+        "industry_code": "65622000",
+        "industry_name": "Hospitals"
+    },
+    {
+        "industry_code": "65622100",
+        "industry_name": "General Medical and Surgical Hospitals"
+    },
+    {
+        "industry_code": "65622200",
+        "industry_name": "Psychiatric and Substance Abuse Hospitals"
+    },
+    {
+        "industry_code": "65622300",
+        "industry_name": "Specialty (except Psychiatric and Substance Abuse) Hospitals"
+    },
+    {
+        "industry_code": "65623000",
+        "industry_name": "Nursing and Residential Care Facilities"
+    },
+    {
+        "industry_code": "65623100",
+        "industry_name": "Nursing Care Facilities (Skilled Nursing Facilities)"
+    },
+    {
+        "industry_code": "65623200",
+        "industry_name": "Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"
+    },
+    {
+        "industry_code": "65623300",
+        "industry_name": "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly"
+    },
+    {
+        "industry_code": "65623900",
+        "industry_name": "Other Residential Care Facilities"
+    },
+    {
+        "industry_code": "65624000",
+        "industry_name": "Social Assistance"
+    },
+    {
+        "industry_code": "65624100",
+        "industry_name": "Individual and Family Services"
+    },
+    {
+        "industry_code": "65624120",
+        "industry_name": "Services for the Elderly and Persons with Disabilities"
+    },
+    {
+        "industry_code": "65624200",
+        "industry_name": "Community Food and Housing, and Emergency and Other Relief Services"
+    },
+    {
+        "industry_code": "65624300",
+        "industry_name": "Vocational Rehabilitation Services"
+    },
+    {
+        "industry_code": "65624400",
+        "industry_name": "Child Care Services"
+    },
+    {
+        "industry_code": "70000000",
+        "industry_name": "Leisure and Hospitality"
+    },
+    {
+        "industry_code": "70710000",
+        "industry_name": "Arts, Entertainment, and Recreation"
+    },
+    {
+        "industry_code": "70711000",
+        "industry_name": "Performing Arts, Spectator Sports, and Related Industries"
+    },
+    {
+        "industry_code": "70711100",
+        "industry_name": "Performing Arts Companies"
+    },
+    {
+        "industry_code": "70711200",
+        "industry_name": "Spectator Sports"
+    },
+    {
+        "industry_code": "70711300",
+        "industry_name": "Promoters of Performing Arts, Sports, and Similar Events"
+    },
+    {
+        "industry_code": "70711500",
+        "industry_name": "Independent Artists, Writers, and Performers"
+    },
+    {
+        "industry_code": "70712000",
+        "industry_name": "Museums, Historical Sites, and Similar Institutions"
+    },
+    {
+        "industry_code": "70713000",
+        "industry_name": "Amusement, Gambling, and Recreation Industries"
+    },
+    {
+        "industry_code": "70713100",
+        "industry_name": "Amusement Parks and Arcades"
+    },
+    {
+        "industry_code": "70713200",
+        "industry_name": "Gambling Industries"
+    },
+    {
+        "industry_code": "70713900",
+        "industry_name": "Other Amusement and Recreation Industries"
+    },
+    {
+        "industry_code": "70713940",
+        "industry_name": "Fitness and Recreational Sports Centers"
+    },
+    {
+        "industry_code": "70720000",
+        "industry_name": "Accommodation and Food Services"
+    },
+    {
+        "industry_code": "70721000",
+        "industry_name": "Accommodation"
+    },
+    {
+        "industry_code": "70721100",
+        "industry_name": "Traveler Accommodation"
+    },
+    {
+        "industry_code": "70721110",
+        "industry_name": "Hotels (except Casino Hotels) and Motels"
+    },
+    {
+        "industry_code": "70721120",
+        "industry_name": "Casino Hotels"
+    },
+    {
+        "industry_code": "70722000",
+        "industry_name": "Food Services and Drinking Places"
+    },
+    {
+        "industry_code": "70722300",
+        "industry_name": "Special Food Services"
+    },
+    {
+        "industry_code": "70722400",
+        "industry_name": "Drinking Places (Alcoholic Beverages)"
+    },
+    {
+        "industry_code": "70722500",
+        "industry_name": "Restaurants and Other Eating Places"
+    },
+    {
+        "industry_code": "70722511",
+        "industry_name": "Full-Service Restaurants"
+    },
+    {
+        "industry_code": "70722590",
+        "industry_name": "Limited-Service Restaurants and Other Eating Places"
+    },
+    {
+        "industry_code": "80000000",
+        "industry_name": "Other Services"
+    },
+    {
+        "industry_code": "80811000",
+        "industry_name": "Repair and Maintenance"
+    },
+    {
+        "industry_code": "80811100",
+        "industry_name": "Automotive Repair and Maintenance"
+    },
+    {
+        "industry_code": "80811300",
+        "industry_name": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    {
+        "industry_code": "80811400",
+        "industry_name": "Personal and Household Goods Repair and Maintenance"
+    },
+    {
+        "industry_code": "80812000",
+        "industry_name": "Personal and Laundry Services"
+    },
+    {
+        "industry_code": "80812100",
+        "industry_name": "Personal Care Services"
+    },
+    {
+        "industry_code": "80812300",
+        "industry_name": "Drycleaning and Laundry Services"
+    },
+    {
+        "industry_code": "80812900",
+        "industry_name": "Other Personal Services"
+    },
+    {
+        "industry_code": "80813000",
+        "industry_name": "Religious, Grantmaking, Civic, Professional, and Similar Organizations"
+    },
+    {
+        "industry_code": "80813100",
+        "industry_name": "Religious Organizations"
+    },
+    {
+        "industry_code": "80813200",
+        "industry_name": "Grantmaking and Giving Services"
+    },
+    {
+        "industry_code": "80813300",
+        "industry_name": "Social Advocacy Organizations"
+    },
+    {
+        "industry_code": "80813400",
+        "industry_name": "Civic and Social Organizations"
+    },
+    {
+        "industry_code": "80813900",
+        "industry_name": "Business, Professional, Labor, Political, and Similar Organizations"
+    },
+    {
+        "industry_code": "90000000",
+        "industry_name": "Government"
+    },
+    {
+        "industry_code": "90910000",
+        "industry_name": "Federal Government"
+    },
+    {
+        "industry_code": "90912991",
+        "industry_name": "Federal Government excluding Department of Defense"
+    },
+    {
+        "industry_code": "90912993",
+        "industry_name": "Federal Government excluding Postal Service"
+    },
+    {
+        "industry_code": "90912994",
+        "industry_name": "Federal Government excluding Postal Service, Department of Defense, Ship Building, and Hospitals"
+    },
+    {
+        "industry_code": "90916220",
+        "industry_name": "Federal Government Hospitals"
+    },
+    {
+        "industry_code": "90919110",
+        "industry_name": "Department of Defense"
+    },
+    {
+        "industry_code": "90919118",
+        "industry_name": "Department of Defense, including Ship Building"
+    },
+    {
+        "industry_code": "90919119",
+        "industry_name": "Department of Defense, including Ship Building and Hospitals"
+    },
+    {
+        "industry_code": "90919120",
+        "industry_name": "U.S. Postal Service"
+    },
+    {
+        "industry_code": "90920000",
+        "industry_name": "State Government"
+    },
+    {
+        "industry_code": "90921611",
+        "industry_name": "State Government Educational Services"
+    },
+    {
+        "industry_code": "90922000",
+        "industry_name": "State Government Excluding Education"
+    },
+    {
+        "industry_code": "90922622",
+        "industry_name": "State Government Hospitals"
+    },
+    {
+        "industry_code": "90922991",
+        "industry_name": "State Government excluding Educational Services and Hospitals"
+    },
+    {
+        "industry_code": "90930000",
+        "industry_name": "Local Government"
+    },
+    {
+        "industry_code": "90931150",
+        "industry_name": "Indian Tribes"
+    },
+    {
+        "industry_code": "90931611",
+        "industry_name": "Local Government Educational Services"
+    },
+    {
+        "industry_code": "90932000",
+        "industry_name": "Local Government excluding Educational Services"
+    },
+    {
+        "industry_code": "90932480",
+        "industry_name": "Transportation"
+    },
+    {
+        "industry_code": "90932622",
+        "industry_name": "Local Government Hospitals"
+    },
+    {
+        "industry_code": "90936111",
+        "industry_name": "Local Government Elementary and Secondary Education"
+    },
+    {
+        "industry_code": "90940000",
+        "industry_name": "Total State and Local Government"
+    },
+    {
+        "industry_code": "90940001",
+        "industry_name": "District of Columbia Government"
+    }
+]
