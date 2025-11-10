@@ -9,9 +9,9 @@ import os
 
 def run():
     industry_file_paths = [
-    r"final-projects-students-postgrad\BLS Data\industry_inputs\CE_outputs.json",
-    r"final-projects-students-postgrad\BLS Data\industry_inputs\JT_outputs.json",
-    r"final-projects-students-postgrad\BLS Data\industry_inputs\SMU_outputs.json"
+    r"BLS Data\industry_inputs\CE_outputs.json",
+    r"BLS Data\industry_inputs\JT_outputs.json",
+    r"BLS Data\industry_inputs\SMU_outputs.json"
 ]
 
     # Define API headers
@@ -84,7 +84,7 @@ def run():
         os.makedirs("./output", exist_ok=True)
 
         # Save full API response to JSON
-        json_output_path = f"C:/Users/user/Documents/Data Science Final Project/final-projects-students-postgrad/BLS Data/output/{file_names[i]}_data.json"
+        json_output_path = f"BLS Data/output/{file_names[i]}_data.json"
         i+=1
         with open(json_output_path, "w") as json_file:
             json.dump(json_data, json_file, indent=4)

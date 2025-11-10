@@ -9,9 +9,9 @@ from getting_data import run
 dict = run()
 
 files = [
-    r"final-projects-students-postgrad\BLS Data\output\CE_data.json",
-    r"final-projects-students-postgrad\BLS Data\output\JT_data.json",
-    r"final-projects-students-postgrad\BLS Data\output\SMU_data.json"
+    r"BLS Data\output\CE_data.json",
+    r"BLS Data\output\JT_data.json",
+    r"BLS Data\output\SMU_data.json"
 ]
 values = ["Average Earnings of all employees (hourly)", "Number of Job Openings", "All employees (thousands)"]
 
@@ -47,4 +47,4 @@ df_jt_agg = df_jt.groupby(["name", "year", "period", "period_name"], as_index=Fa
 # the final data frame merging all the datasets
 df_final = df_jt_agg.merge(df_ce, on=["name","year","period","period_name"],how = "left").merge(df_smu, on = ["name","year","period","period_name"], how = "left")
 df_final = df_final[df_final['name'] != "other services"]
-df_final.to_json(r"final-projects-students-postgrad\BLS Data\output\final_output.json",orient = "records", indent= 4)
+df_final.to_json(r"BLS Data\output\final_output.json",orient = "records", indent= 4)

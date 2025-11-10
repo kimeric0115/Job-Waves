@@ -2,11 +2,11 @@ import json
 import os
 
 # Input and output file paths
-text_file_paths = [r"final-projects-students-postgrad\BLS Data\industry_inputs\CE_inputs.txt", r"final-projects-students-postgrad\BLS Data\industry_inputs\JT_inputs.txt", r"final-projects-students-postgrad\BLS Data\industry_inputs\SMU_inputs.txt"]
+text_file_paths = [r"BLS Data\industry_inputs\CE_inputs.txt", r"BLS Data\industry_inputs\JT_inputs.txt", r"BLS Data\industry_inputs\SMU_inputs.txt"]
 json_file_paths = ["CE_outputs.json", "JT_outputs.json", "SMU_outputs.json"]  # Fixed file extensions
 
 # Create output directory if it doesn't exist
-os.makedirs("final-projects-students-postgrad\BLS Data\industry_outputs", exist_ok=True)
+os.makedirs("BLS Data\outputs", exist_ok=True)
 
 # Process each text file
 for i in range(len(text_file_paths)):
@@ -27,7 +27,7 @@ for i in range(len(text_file_paths)):
         data_list.append(dict(zip(headers, values)))
 
     # Save to JSON file
-    json_output_path = f"final-projects-students-postgrad/BLS Data/industry_inputs/{json_file}"
+    json_output_path = f"BLS Data/outputs/{json_file}"
     with open(json_output_path, "w") as json_out:
         json.dump(data_list, json_out, indent=4)
 
